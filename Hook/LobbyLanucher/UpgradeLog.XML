@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LobbyLanucher">
+</Property><Property Name="Solution File" Value="D:\progma\svn\Hook\LobbyLanucher\LobbyLanucher.sln">
+</Property><Property Name="Date" Value="2011年10月22日星期六">
+</Property><Property Name="Time" Value="17:47:43">
+</Property></Properties><Event ErrorLevel="0" Project="LobbyLanucher" Source="LobbyLanucher.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="LobbyLanucher" Source="LobbyLanucher.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="LobbyLanucher" Source="LobbyLanucher.vcproj" Description="Project file successfully backed up as 'D:\progma\svn\Hook\LobbyLanucher\LobbyLanucher.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="LobbyLanucher" Source="LobbyLanucher.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="LobbyLanucher" Source="LobbyLanucher.vcproj" Description="Converted">
+</Event></UpgradeLog>

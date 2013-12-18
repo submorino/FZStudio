@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MainFrame", "MainFrame.vcproj", "{02FF7A03-4ED1-4D9B-9603-7EE61C84B300}"
+	ProjectSection(ProjectDependencies) = postProject
+		{74F3BC0F-8B74-4FB6-AEED-84F4BC32FAEB} = {74F3BC0F-8B74-4FB6-AEED-84F4BC32FAEB}
+		{E646E45D-F619-4F97-B2DA-3986EDFC1BD4} = {E646E45D-F619-4F97-B2DA-3986EDFC1BD4}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataProcess", "..\DataProcess\DataProcess.vcproj", "{E646E45D-F619-4F97-B2DA-3986EDFC1BD4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppSQLite3", "..\CppSqlite3\CppSQLite3.vcproj", "{74F3BC0F-8B74-4FB6-AEED-84F4BC32FAEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02FF7A03-4ED1-4D9B-9603-7EE61C84B300}.Debug|Win32.ActiveCfg = Debug|Win32
+		{02FF7A03-4ED1-4D9B-9603-7EE61C84B300}.Debug|Win32.Build.0 = Debug|Win32
+		{02FF7A03-4ED1-4D9B-9603-7EE61C84B300}.Release|Win32.ActiveCfg = Release|Win32
+		{02FF7A03-4ED1-4D9B-9603-7EE61C84B300}.Release|Win32.Build.0 = Release|Win32
+		{E646E45D-F619-4F97-B2DA-3986EDFC1BD4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E646E45D-F619-4F97-B2DA-3986EDFC1BD4}.Debug|Win32.Build.0 = Debug|Win32
+		{E646E45D-F619-4F97-B2DA-3986EDFC1BD4}.Release|Win32.ActiveCfg = Release|Win32
+		{E646E45D-F619-4F97-B2DA-3986EDFC1BD4}.Release|Win32.Build.0 = Release|Win32
+		{74F3BC0F-8B74-4FB6-AEED-84F4BC32FAEB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{74F3BC0F-8B74-4FB6-AEED-84F4BC32FAEB}.Debug|Win32.Build.0 = Debug|Win32
+		{74F3BC0F-8B74-4FB6-AEED-84F4BC32FAEB}.Release|Win32.ActiveCfg = Release|Win32
+		{74F3BC0F-8B74-4FB6-AEED-84F4BC32FAEB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+

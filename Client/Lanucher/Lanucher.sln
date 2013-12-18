@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lanucher", "Lanucher.vcproj", "{5DF22728-27ED-4802-A17F-332E835248B5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7A208ACE-BD76-4D69-BE50-3E158E00CBD5} = {7A208ACE-BD76-4D69-BE50-3E158E00CBD5}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TinyXML", "..\TinyXML\TinyXML.vcproj", "{7A208ACE-BD76-4D69-BE50-3E158E00CBD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DF22728-27ED-4802-A17F-332E835248B5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5DF22728-27ED-4802-A17F-332E835248B5}.Debug|Win32.Build.0 = Debug|Win32
+		{5DF22728-27ED-4802-A17F-332E835248B5}.Release|Win32.ActiveCfg = Release|Win32
+		{5DF22728-27ED-4802-A17F-332E835248B5}.Release|Win32.Build.0 = Release|Win32
+		{7A208ACE-BD76-4D69-BE50-3E158E00CBD5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7A208ACE-BD76-4D69-BE50-3E158E00CBD5}.Debug|Win32.Build.0 = Debug|Win32
+		{7A208ACE-BD76-4D69-BE50-3E158E00CBD5}.Release|Win32.ActiveCfg = Release|Win32
+		{7A208ACE-BD76-4D69-BE50-3E158E00CBD5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

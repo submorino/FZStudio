@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="GB2312"?>
+<ServerTree>
+	<site name="启东站点">
+		<item type="kind" name="快速通道" exp="0">
+			<item type="url" name="银行卡充值#hot1.bmp#" url="http://www.9c51.com/cz_new_pay.aspx"/>
+			<item type="url" name="如何获得免费喜金#hot1.bmp#" url="http://www.9c51.com/news/2011/9/2011-9-15-1312059405.html"/>
+			<item type="url" name="商城礼品敞开兑#hot1.bmp#" url="http://shop.9c51.com"/>
+		</item>
+		<item type="kind" name="“拼牌技，老韭菜网络大赛”总冠军庐山真面目" exp="0" url="http://www.9c51.com/news/2011/9/2011-9-16-635698671.html">
+			<item type="server" serverid="1192" url="http://www.9c51.com/news/2011/8/2011-8-9-1415426964.html"/>
+			<item type="server" serverid="1505" url="http://www.9c51.com/news/2011/8/2011-8-9-1415426964.html"/>
+		</item>
+		<item type="kind" name="拼牌技，斗地主网络大赛，赢汽车!总冠军庐山真面目" exp="0" url="http://www.9c51.com/news/2011/10/2011-10-26-1496147638.html">
+			<item type="url" name="比赛规则#hot1.bmp#" url="http://www.9c51.com/news/2011/9/2011-9-5-910358925.html"/>
+			<item type="url" name="成绩查询与获奖领取#hot1.bmp#" url="http://www.9c51.com/game3win/paiming.aspx"/>
+			<item type="url" name="比赛中逃跑情况的特别说明#hot1.bmp#" url="http://www.9c51.com/news/2011/9/2011-9-24-311331097.html"/>
+			<item type="server" serverid="1739" url="http://www.9c51.com/news/2011/9/2011-9-5-910358925.html"/>
+		</item>
+		<item type="kind" name="五星电器杯“斗地主”社区争霸赛现场照片秀" exp="0" url="http://www.9c51.com/news/2011/10/2011-10-26-366338616.html"/>
+		<item type="kind" name="#FF0000#周末天天赛，好礼送不断！" exp="1" url="http://www.9c51.com/news/2011/10/2011-10-27-1195921228.html">
+			<item type="url" name="周末天天赛，好礼送不断#hot1.bmp#" url="http://www.9c51.com/news/2011/10/2011-10-27-1195921228.html"/>
+			<item type="server" serverid="278" url="http://www.9c51.com/news/2011/10/2011-10-27-1195921228.html"/>
+		</item>
+		<item type="kind" name="玩三连胜斗地主赢商城礼品" exp="1" url="shop.9c51.com/">
+			<item type="url" name="三连胜斗地主赢礼券兑商城礼品#hot1.bmp#" url="http://www.9c51.com/news/2011/8/2011-8-1-1929551006.html"/>
+			<item type="server" serverid="271" url="http://www.9c51.com/news/2011/8/2011-8-1-1929551006.html"/>
+		</item>
+		<item type="kind" name="免费恢复喜金专区（新手区)" exp="0">
+			<item type="url" name="#FF0000#免费恢复喜金房间使用说明" url="http://www.9c51.com/news/2011/9/2011-9-15-373066072.html"/>
+			<item type="server" serverid="1275" url="http://www.9c51.com/news/2011/9/2011-9-15-373066072.html"/>
+		</item>
+		<item type="kind" name="深海捕鱼" exp="1">
+			<item type="url" name="#FF0000#深海捕鱼服务器选择" url="http://fish.9c51.com/servers.aspx"/>
+		</item>
+		<item type="kind" name="热门游戏#hot1.bmp#" exp="1">
+			<item type="game" id="41"/>
+			<item type="game" id="3"/>
+			<item type="game" id="7"/>
+			<item type="game" id="31"/>
+			<item type="game" id="20" name="同花顺五张"/>
+			<item type="game" id="43"/>
+			<item type="game" id="105" name="鸡鸭碰"/>
+			<item type="game" id="27" name="万人JACK"/>
+			<item type="game" id="87"/>
+			<item type="game" id="21" name="超级天槓"/>
+			<item type="game" id="123"/>
+		</item>
+		<item type="kind" name="本地特色游戏">
+			<item type="game" id="25"/>
+			<item type="game" id="109"/>
+			<item type="game" id="33"/>
+			<item type="game" id="53"/>
+			<item type="game" id="87"/>
+			<item type="game" id="123"/>
+		</item>
+		<item type="kind" name="休闲类">
+			<item type="game" id="71"/>
+			<item type="game" id="23"/>
+			<item type="game" id="77"/>
+			<item type="game" id="61"/>
+			<item type="game" id="59"/>
+			<item type="game" id="18"/>
+		</item>
+	</site>
+	<GameList>
+		<game id="2" name="深海捕鱼"/>
+		<game id="7" name="启东四人斗地主"/>
+		<game id="20" name="同花顺五张"/>
+		<game id="21" name="超级天槓"/>
+		<game id="23" name="疯狂台球"/>
+		<game id="25" name="挥麻将"/>
+		<game id="27" name="万人JACK"/>
+		<game id="31" name="斗牛"/>
+		<game id="33" name="三人斗地主"/>
+		<game id="41" name="老韭菜"/>
+		<game id="43" name="启东麻将"/>
+		<game id="59" name="跑的快"/>
+		<game id="71" name="斯诺克"/>
+		<game id="77" name="80分"/>
+		<game id="87" name="天槓"/>
+		<game id="105" name="鸡鸭碰"/>
+		<game id="109" name="关牌"/>
+		<game id="123" name="十三水"/>
+	</GameList>
+	<ServerList>
+		<Server serverid="50" gameid="87" ip="222.76.213.77" port="4009" NowVer="8" LowVer="8" maxUser="320" servername="长龙街（10喜金，抢庄）" fullname="长龙街（10喜金，抢庄）"/>
+		<Server serverid="124" gameid="33" ip="222.76.213.77" port="4039" NowVer="6" LowVer="6" maxUser="320" servername="豪门广场（100喜金带抢地主）" fullname="豪门广场（100喜金带抢地主）"/>
+		<Server serverid="151" gameid="105" ip="222.76.213.77" port="4024" NowVer="7" LowVer="7" maxUser="138" servername="长龙街（2000W上庄，1000W封顶）" fullname="长龙街（2000W上庄，1000W封顶）"/>
+		<Server serverid="230" gameid="71" ip="222.76.213.77" port="4035" NowVer="2" LowVer="2" maxUser="320" servername="天鼎广场（100喜金）" fullname="天鼎广场（100喜金）"/>
+		<Server serverid="271" gameid="33" ip="222.76.213.77" port="4099" NowVer="6" LowVer="6" maxUser="320" servername="b1斗地主三连胜1" fullname="#FF0000#斗地主三连胜(10:00--24:00)"/>
+		<Server serverid="295" gameid="43" ip="222.76.213.77" port="4021" NowVer="4" LowVer="4" maxUser="340" servername="民乐中路（100底）" fullname="民乐中路（100底）"/>
+		<Server serverid="634" gameid="20" ip="222.76.213.77" port="4017" NowVer="2" LowVer="2" maxUser="340" servername="b幸福之岛（单挑）" fullname="幸福之岛（单挑）"/>
+		<Server serverid="674" gameid="77" ip="222.76.213.77" port="4043" NowVer="2" LowVer="2" maxUser="340" servername="公园路（10喜金）" fullname="公园路（10喜金）"/>
+		<Server serverid="740" gameid="31" ip="222.76.213.77" port="4175" NowVer="3" LowVer="3" maxUser="320" servername="new牛牛mp" fullname="多如牛毛"/>
+		<Server serverid="797" gameid="59" ip="222.76.213.77" port="4005" NowVer="6" LowVer="6" maxUser="320" servername="超越广场（硬吃，10喜金）" fullname="超越广场（硬吃，10喜金）"/>
+		<Server serverid="861" gameid="27" ip="222.76.213.77" port="4015" NowVer="2" LowVer="2" maxUser="340" servername="黑JACK(500w封顶)" fullname="黑JACK(500w封顶)"/>
+		<Server serverid="905" gameid="25" ip="222.76.213.77" port="4018" NowVer="2" LowVer="2" maxUser="340" servername="大洋港（1底）" fullname="大洋港（1底）"/>
+		<Server serverid="907" gameid="2" ip="222.76.213.77" port="4222" NowVer="999" LowVer="1" maxUser="276" servername="test_FishMan" fullname="test_Fishman1"/>
+		<Server serverid="921" gameid="33" ip="222.76.213.77" port="4037" NowVer="6" LowVer="6" maxUser="320" servername="金鹰广场（10喜金带抢地主）" fullname="金鹰广场（10喜金带抢地主）"/>
+		<Server serverid="960" gameid="21" ip="222.76.213.77" port="4006" NowVer="2" LowVer="2" maxUser="118" servername="超级天杠" fullname="超级天杠"/>
+		<Server serverid="962" gameid="41" ip="222.76.213.77" port="4001" NowVer="2" LowVer="2" maxUser="340" servername="人民公园（10底）" fullname="人民公园（10底）"/>
+		<Server serverid="1155" gameid="7" ip="222.76.213.77" port="4010" NowVer="2" LowVer="2" maxUser="340" servername="0明天广场（10喜金）" fullname="明天广场（10喜金）"/>
+		<Server serverid="1210" gameid="20" ip="222.76.213.77" port="4004" NowVer="2" LowVer="2" maxUser="340" servername="a天鼎广场（1底）" fullname="天鼎广场（1底）"/>
+		<Server serverid="1238" gameid="25" ip="222.76.213.77" port="4002" NowVer="2" LowVer="2" maxUser="340" servername="a紫薇公园（千生百老1底）" fullname="紫薇公园（千生百老1底）"/>
+		<Server serverid="1274" gameid="41" ip="222.76.213.77" port="4013" NowVer="2" LowVer="2" maxUser="340" servername="三建设中路（100底）" fullname="建设中路（100底）"/>
+		<Server serverid="1275" gameid="33" ip="222.76.213.77" port="4065" NowVer="6" LowVer="6" maxUser="380" servername="a斗地主免费恢复房间1" fullname="#FF0000#斗地主免费恢复房间1"/>
+		<Server serverid="1429" gameid="109" ip="222.76.213.77" port="4008" NowVer="3" LowVer="3" maxUser="320" servername="民乐路（1底）" fullname="民乐路（1底）"/>
+		<Server serverid="1564" gameid="43" ip="222.76.213.77" port="4000" NowVer="4" LowVer="4" maxUser="340" servername="广电广场（10底）" fullname="广电广场（10底）"/>
+		<Server serverid="1642" gameid="41" ip="222.76.213.77" port="4007" NowVer="2" LowVer="2" maxUser="340" servername="中央大道（1000底）" fullname="中央大道（1000底）"/>
+		<Server serverid="1719" gameid="123" ip="222.76.213.77" port="4019" NowVer="5" LowVer="5" maxUser="340" servername="崇启大桥（10底）" fullname="崇启大桥（10底）"/>
+		<Server serverid="1769" gameid="43" ip="222.76.213.77" port="4022" NowVer="4" LowVer="4" maxUser="340" servername="慧阳路（1000底）" fullname="慧阳路（1000底）"/>
+		<Server serverid="1842" gameid="20" ip="222.76.213.77" port="4016" NowVer="2" LowVer="2" maxUser="340" servername="博圣广场（1000底）" fullname="博圣广场（1000底）"/>
+		<Server serverid="1897" gameid="23" ip="222.76.213.77" port="4033" NowVer="3" LowVer="3" maxUser="320" servername="明珠广场（100喜金）" fullname="明珠广场（100喜金）"/>
+	</ServerList>
+</ServerTree>
